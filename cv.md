@@ -3,7 +3,7 @@
 - [Instagram](https://www.instagram.com/swistyz/)
 - Mail __swistyz16@gmail.com__
 - Telegram __+375257380596__
-## About me
+# About me
 *** I'm Maxim, I'm 29 years old, my goal is to complete your courses and get a well-paid job ***
 
 1. __Skills__ Introductory HTML
